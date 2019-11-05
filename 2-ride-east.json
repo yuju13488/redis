@@ -1,0 +1,45 @@
+[
+  {
+    "type": "template",
+    "altText": "this is a carousel template",
+    "template": {
+      "type": "carousel",
+      "actions": [],
+      "columns": [
+        {
+          "title": "\u8cfd\u4e8b1",
+          "text": "2019\u74b0\u82b1\u6771365\u8d85\u7d1a\u6311\u6230",
+          "actions": [
+            {
+              "type": "uri",
+              "label": "\u6d3b\u52d5\u7db2\u5740",
+              "uri": "http://www.cyclist.org.tw/"
+            }
+          ]
+        },
+        {
+          "title": "\u8cfd\u4e8b2",
+          "text": "2019 \u96d9\u6e2f 240 (\u96d9\u4e3b\u5834)",
+          "actions": [
+            {
+              "type": "uri",
+              "label": "\u6d3b\u52d5\u7db2\u5740",
+              "uri": "http://www.twbike.org/"
+            }
+          ]
+        },
+        {
+          "title": "\u8cfd\u4e8b3",
+          "text": "2019 \u6c38\u4e0d\u653e\u68c4\u7cfb\u5217\u6d3b\u52d5\u6975\u9650\u6311\u6230 \u6d04\u703e300K/100K",
+          "actions": [
+            {
+              "type": "uri",
+              "label": "\u6d3b\u52d5\u7db2\u5740",
+              "uri": "http://www.tpe-bike.org.tw/"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
